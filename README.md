@@ -75,8 +75,7 @@ To run the code, it is recommended to install the following Python Packaged:
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:rosadigital/Neon-button.git
-
+$ git@github.com:rosadigital/listingfiles.git
 # Open the repository on pycharm
 
 ```
