@@ -38,9 +38,10 @@ There are four types of executables (and its codes). They only differ on size an
 ## 💡 Knowledge acquired (conhecimentos adquiridos)
 
 - During this project, I learned:
-  - pending to be written;
-  - pending to be written; and
-  - pending to be written.
+  - use threading to run multiple tasks simultaneously;
+  - turn Python codes into executables (.exe) by Pyinstaller;
+  - use Tkinter to create a user interface, so users can see the executable running; and
+  - find the most efficient algorithm based on its performance: i.e. comparing executables with and without the interface, or even different settings for threading.
 
 ---
 
